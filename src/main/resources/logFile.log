@@ -1,0 +1,3 @@
+20230511 com.sparta.me.logging.Main INFO This is an Info message
+20230511 com.sparta.me.logging.Main WARNING This is a Warning message
+20230511 com.sparta.me.logging.Main FINE This is a Fine message

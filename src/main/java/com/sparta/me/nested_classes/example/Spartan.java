@@ -3,7 +3,7 @@ package com.sparta.me.nested_classes.example;
 import java.util.Comparator;
 
 public class Spartan {
-    public class SpartanComparator implements Comparator<Spartan> {
+    public static class SpartanComparator implements Comparator<Spartan> {
         @Override
         public int compare(Spartan o1, Spartan o2) {
             return o1.getName().compareTo(o2.getName());

@@ -15,6 +15,7 @@ public class GenericFinder {
     }
 
     public static void main(String[] args) {
+        //notice how we can use the same method for all 3 data types below
         String[] words = {"A", "E", "I", "O", "U"};
         Integer[] numbers = {1,2,3,4,5};
         LocalDate[] dates = {LocalDate.now(), LocalDate.of(2021,8,13), LocalDate.of(200,1,1)};

@@ -14,7 +14,7 @@ public class OuterClass {
         public String print() {
             OuterClass outerClass = new OuterClass();
             return "I can see the " + outerClass.privateString;
-           // return "I can see the " + privateString; //not visible
+            //return "I can see the " + privateString; //not visible
         }
 
         public String printStatic() {

@@ -1,5 +1,5 @@
 package com.sparta.me.nested_classes.anon;
 
 public interface Speakable {
-    String speak();
+    void speak(String name);
 }

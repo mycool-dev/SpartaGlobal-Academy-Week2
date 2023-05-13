@@ -12,7 +12,10 @@ public class Main {
                 new Spartan("Gary", 2),
                 new Spartan("David",3)));
 
+
+        System.out.println(spartans.get(0).getName());
         Collections.sort(numbers);
-        //Collections.sort(spartans, new SpartanComparator());
+        Collections.sort(spartans, new Spartan.SpartanComparator());
+        System.out.println(spartans.get(0).getName());
     }
 }

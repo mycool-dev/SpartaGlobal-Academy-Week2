@@ -14,7 +14,7 @@ public class Main {
             printValueFromArray(new int[]{1, 2, 3, 4}, 10);
         } catch (ArrayIndexOutOfBoundsException e) {
             e.printStackTrace();
+            System.out.println(e.getMessage());
         }
-
     }
 }

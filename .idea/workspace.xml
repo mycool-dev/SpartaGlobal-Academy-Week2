@@ -5,34 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8ccbc04-98c4-4ebe-bffe-313746254add" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/collections/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/comparable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/comparable/Spartan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/comparator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/comparator/Spartan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/comparator/SpartanComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/design_patterns/decorator/Chicago.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/design_patterns/decorator/Italian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/design_patterns/decorator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/design_patterns/decorator/sides/Chips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/design_patterns/decorator/sides/Salad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/design_patterns/decorator/sides/Sides.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/exceptions/Hierarchy.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/me/design_patterns/decorator/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/design_patterns/decorator/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/me/design_patterns/singleton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/design_patterns/singleton/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/me/design_patterns/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/design_patterns/singleton/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/me/exceptions/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/exceptions/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/me/generics/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/generics/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/me/generics/GenericBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/generics/GenericBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/me/generics/GenericFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/generics/GenericFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/me/nested_classes/anon/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/nested_classes/anon/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/me/nested_classes/anon/Speakable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/nested_classes/anon/Speakable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/me/nested_classes/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/nested_classes/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/me/nested_classes/example/Spartan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/nested_classes/example/Spartan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/me/nested_classes/innerclass/OuterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/nested_classes/innerclass/OuterClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/me/nested_classes/nested_static_class/OuterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/nested_classes/nested_static_class/OuterClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/me/logging/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/me/logging/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logFile.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/logFile.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +61,7 @@
       <recent name="com.sparta.me.comparator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.sparta.me.nested_classes.anon.Main">
+  <component name="RunManager" selected="Application.com.sparta.me.logging.Main">
     <configuration name="Blocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sparta.me.nested_classes.blocks.Blocks" />
       <module name="Week_2" />
@@ -126,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.sparta.me.comparator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sparta.me.comparator.Main" />
+    <configuration name="com.sparta.me.logging.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sparta.me.logging.Main" />
       <module name="Week_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sparta.me.comparator.*" />
+          <option name="PATTERN" value="com.sparta.me.logging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.sparta.me.logging.Main" />
         <item itemvalue="Application.com.sparta.me.nested_classes.anon.Main" />
         <item itemvalue="Application.Blocks" />
         <item itemvalue="Application.OuterClass" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.com.sparta.me.comparator.Main" />
       </list>
     </recent_temporary>
   </component>

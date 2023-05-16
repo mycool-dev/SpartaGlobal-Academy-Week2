@@ -23,7 +23,8 @@ public class OuterClass {
         }
 
         Spartan spartan = new Spartan("Manish");
-        System.out.println(spartan.getName());
+        //System.out.println(spartan.getName());
+        spartan.isVisible();
     }
 
     public static void main(String[] args) {
